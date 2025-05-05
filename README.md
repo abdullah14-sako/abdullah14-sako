@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Abdullah Sako
+# Hi there! 👋 I'm Abdullah
 
 Welcome to my GitHub profile! I'm passionate about software development and enjoy exploring new technologies to craft elegant and scalable solutions.
 
