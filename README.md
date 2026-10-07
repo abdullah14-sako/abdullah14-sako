@@ -1,27 +1,27 @@
 # Hi there! 👋 I'm Abdullah
 
-Welcome to my GitHub profile! I'm passionate about software development and enjoy exploring new technologies to craft elegant and scalable solutions.
+Welcome to my GitHub profile! I am a passionate and driven *Software Engineering student* currently in my second year at Azrieli College of Engineering. I enjoy diving deep into how systems work under the hood and solving complex algorithmic problems.
 
-## 🌟 About Me
-- 🎓 **Background**: Aspiring software engineer with a keen interest in web development, backend systems, and open-source contributions.
-- 🌐 **Languages**: Proficient in JavaScript, Python, and Java. Currently learning Rust and Go.
-- 🚀 **Interests**: Full-stack development, cloud computing, and AI/ML.
-- 🎯 **Goal**: To contribute to impactful projects and grow as a developer.
+### 👨‍💻 About Me
 
-## 📂 My Projects
-- **[Project A](#)**: A web app for managing tasks, built with React and Node.js.
-- **[Project B](#)**: A Python library for data analysis and visualization.
-- **[Project C](#)**: An open-source tool for automating workflows.
+- 🎓 *Background*: B.Sc. Student in Software Engineering.
+- 📚 *Currently Learning: I am building a strong core in **Object-Oriented Programming (OOP), **Data Structures, **Algorithms, and **Computer Architecture*.
+- 💡 *Interests*: Backend development, algorithmic problem-solving, and building clean, efficient software.
+- 🎯 *Goal: I am currently looking for a **Student Position / Internship* where I can apply my academic knowledge to real-world projects, learn from experienced engineers, and grow professionally.
 
-## 🔧 Tools & Technologies
-- Frameworks: React, Django, Express
-- Databases: MongoDB, PostgreSQL
-- DevOps: Docker, Kubernetes
-- Hosting: AWS, Vercel
+### 🛠️ Languages & Tools
 
-## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/abdullah-sako)
-- [Twitter](https://twitter.com/abdullah_sako)
-- [Portfolio](#)
+- *Core Languages: Java, C/C++, Assembly (MIPS/RISC-V) *(Adjust these based on what you actually study)
+- *Concepts*: OOP, Data Structures, Algorithmic Design
+- *Tools*: Git, GitHub
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate. Happy coding! 🚀
+### 📈 What I'm doing here
+I use GitHub to track my academic projects, showcase my coding assignments, and practice my skills. Feel free to check out my repositories below!
+
+### 📫 Let's Connect!
+
+- *LinkedIn*: [Abdullah Dajani](https://linkedin.com/in/abdullah-sako)
+- *Email: *(aasd.dragon@gmail.com)
+
+---
+⭐️ Always learning and always coding.
