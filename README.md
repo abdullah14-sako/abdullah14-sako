@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a passionate and driven *Software Engineering
 
 ### 🛠️ Languages & Tools
 
-- *Core Languages: Java, C/C++, Assembly (MIPS/RISC-V) *(Adjust these based on what you actually study)
+- *Core Languages: Java, C/C++, Assembly (MIPS/RISC-V)
 - *Concepts*: OOP, Data Structures, Algorithmic Design
 - *Tools*: Git, GitHub
 
