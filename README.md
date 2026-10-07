@@ -20,7 +20,7 @@ I use GitHub to track my academic projects, showcase my coding assignments, and 
 
 ### 📫 Let's Connect!
 
-- *LinkedIn*: [Abdullah Dajani](https://linkedin.com/in/abdullah-sako)
+- *LinkedIn*: [Abdullah Dajani](https://www.linkedin.com/in/abdullah-dajani-0072143b9/?isSelfProfile=true)
 - *Email: *(aasd.dragon@gmail.com)
 
 ---
